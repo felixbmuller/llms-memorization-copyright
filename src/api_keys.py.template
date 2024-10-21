@@ -1,0 +1,7 @@
+"""API keys for accessing model providers"""
+
+api_keys = {
+    "openai_api_key": "SECRET KEY",
+    "together_api_key": "SECRET KEY",
+    "aleph_alpha_api_key": "SECRET KEY",
+}
